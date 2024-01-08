@@ -9,8 +9,6 @@ date: 2023-12-14
 
 `Folder File Dokumentasi PKL:`
 
-[Documentation](https://drive.google.com/drive/folders/1Bkj_uVNZYveOtpWImyjrZoTdPJRODTJK?usp=sharing) `folder file`
-
 ## Hasil desain tampilan landing page Galangan Kapal di Figma dan Slicing desain Figma ke HTML
 
 `Figma:`
